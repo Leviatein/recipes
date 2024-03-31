@@ -1,0 +1,29 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rebeccapurple;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    color: blue;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+p {
+    color: blueviolet;
+    background-color: azure;
+}
+
+ul li {
+    color: brown;
+}
+
+ol li {
+    color: orange;
+}

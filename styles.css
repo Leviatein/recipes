@@ -1,0 +1,44 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    padding: 20px;
+}
+
+h1,
+a,
+p {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: red;
+    font-weight: 800;
+    background-color: aqua;
+    margin-bottom: 8px;
+}
+
+.list {
+    color: green;
+    background-color: pink;
+}
+
+.link {
+    padding-left: 10px;
+}
+
+ol {
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    border-width: 5px;
+    background-color: lightblue;
+    margin-top: 8px;
+}
